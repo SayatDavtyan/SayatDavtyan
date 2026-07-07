@@ -1,7 +1,5 @@
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="color: #007acc; font-size: 24px;">
-    Frontend Developer | JavaScript & React
-  </marquee>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 40' width='100%25' height='40'><style>@keyframes move { 0%25 { transform: translateX(100%25); } 100%25 { transform: translateX(-100%25); } }</style><text x='0' y='26' fill='%23007acc' font-family='sans-serif' font-size='22' font-weight='bold' style='animation: move 12s linear infinite;'>Frontend Developer | JavaScript & React</text></svg>" alt="Frontend Developer | JavaScript & React">
 </p>
 
 # 👋 Hi, I'm Sayat
